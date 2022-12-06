@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ButtonComponent Should match snapshot 1`] = `
+<div>
+  <button
+    class="styled__ButtonStyled-sc-6w1m99-0 cBxwXz"
+    data-testid="button"
+  />
+</div>
+`;

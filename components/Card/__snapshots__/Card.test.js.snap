@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardComponent Should match snapshot 1`] = `
+<div>
+  <div
+    class="styled__CardStyled-sc-x26mvw-0 ilpskl"
+    data-testid="card"
+  >
+    <a
+      class="styled__LinkStyled-sc-x26mvw-1 disabled"
+      href="/artist/"
+    >
+      <div
+        class="card"
+      >
+        <div
+          class="card__image"
+        >
+          <img
+            alt=""
+            src="https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png"
+          />
+        </div>
+        <div
+          class="card__content"
+        >
+          <h3
+            class="card__content__title"
+          />
+        </div>
+        <div
+          class="card__stats"
+        />
+      </div>
+    </a>
+  </div>
+</div>
+`;
