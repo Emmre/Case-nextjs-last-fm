@@ -5,7 +5,6 @@ export const CardStyled = styled.div`
   .card {
     gap: 16px;
     display: flex;
-    background-color: #fff;
     border-radius: 4px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border: 1px solid #e6e6e6;
